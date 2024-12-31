@@ -1,0 +1,17 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.opendb
+*.obj
+*.pdb
+
+# Ignore build directories
+Debug/
+Release/
+
+# Ignore other system files
+*.log
+*.tmp
+*.exe
